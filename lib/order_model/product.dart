@@ -1,7 +1,5 @@
 import 'package:json_annotation/json_annotation.dart';
-
 import 'service.dart'; // Importing Service class
-
 part 'product.g.dart'; // This will be generated
 
 @JsonSerializable()
